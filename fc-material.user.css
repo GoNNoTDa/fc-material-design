@@ -4358,6 +4358,10 @@
         height: 32px;
         outline: 16px solid var(--bg01);
     }
+
+    #opd_bottomstickyad, #table3 {
+        display:none;
+    }
 }
 
 @-moz-document regexp("(http[s]?:\\/\\/)*www.forocoches.com/foro/") {
